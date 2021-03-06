@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/meal-recipes/static/css/main.fb804d79.chunk.css",
+    "main.js": "/meal-recipes/static/js/main.9713fee3.chunk.js",
+    "main.js.map": "/meal-recipes/static/js/main.9713fee3.chunk.js.map",
+    "runtime-main.js": "/meal-recipes/static/js/runtime-main.b8f0e2e4.js",
+    "runtime-main.js.map": "/meal-recipes/static/js/runtime-main.b8f0e2e4.js.map",
+    "static/js/2.f91b1296.chunk.js": "/meal-recipes/static/js/2.f91b1296.chunk.js",
+    "static/js/2.f91b1296.chunk.js.map": "/meal-recipes/static/js/2.f91b1296.chunk.js.map",
+    "static/js/3.0ec9ddcd.chunk.js": "/meal-recipes/static/js/3.0ec9ddcd.chunk.js",
+    "static/js/3.0ec9ddcd.chunk.js.map": "/meal-recipes/static/js/3.0ec9ddcd.chunk.js.map",
+    "index.html": "/meal-recipes/index.html",
+    "static/css/main.fb804d79.chunk.css.map": "/meal-recipes/static/css/main.fb804d79.chunk.css.map",
+    "static/js/2.f91b1296.chunk.js.LICENSE.txt": "/meal-recipes/static/js/2.f91b1296.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8f0e2e4.js",
+    "static/js/2.f91b1296.chunk.js",
+    "static/css/main.fb804d79.chunk.css",
+    "static/js/main.9713fee3.chunk.js"
+  ]
+}
